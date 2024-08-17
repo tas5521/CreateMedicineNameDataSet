@@ -1,0 +1,2 @@
+# CreateMedicineNameDataSet
+薬名暗記カードのアプリで使用する薬名のデータセットを作成するプログラム
