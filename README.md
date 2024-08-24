@@ -11,11 +11,17 @@
 ## 使い方
 ### 事前準備
 下記の二つのパッケージをインストールします。
-- pandas 2.0.1
-- PySimpleGUI 4.60.5
+- pandas
+- PySimpleGUI
 
 ### 実行
-1. IDLEで、medicine_name_list_generator.pyを開きます。<br>
-2. RUN Moduleで実行します。適切に起動すれば下図のようなGUIが開きます。<br>
-<img width="250" src="images/ScreenShot_1.png"><br>
-3. 
+1. IDLEで、medicine_name_list_generator.pyを開きます。
+2. RUN Moduleで実行します。適切に起動すれば下図のようなGUIが開きます。
+<img width="400" src="images/ScreenShot_1.png">
+3. 「Browse」ボタンをクリックして、元データを読み込みます。
+サンプルデータは下記のとおりです。
+内用薬：Sample_oral.xlsx
+注射薬：Sample_injection.xlsx
+外用薬：Sample_topical.xlsx
+4. 全て読み込んだら、「実行」ボタンをクリックします。<br>
+適切に実行されると、medicine_name_list_generator.pyと同じディレクトリにCSVファイルが生成されます。
