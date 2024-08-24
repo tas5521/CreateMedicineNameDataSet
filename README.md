@@ -17,5 +17,5 @@
 ### 実行
 1. IDLEで、medicine_name_list_generator.pyを開きます。<br>
 2. RUN Moduleで実行します。適切に起動すれば下図のようなGUIが開きます。<br>
-<img width="250" src="images/スクリーンショット_1.png"><br>
+<img width="250" src="images/ScreenShot_1.png"><br>
 3. 
