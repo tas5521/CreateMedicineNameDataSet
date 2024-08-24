@@ -7,3 +7,15 @@
 ## 使用しているパッケージとバージョン
 - pandas 2.0.1
 - PySimpleGUI 4.60.5
+
+## 使い方
+### 事前準備
+下記の二つのパッケージをインストールします。
+- pandas 2.0.1
+- PySimpleGUI 4.60.5
+
+### 実行
+1. IDLEで、medicine_name_list_generator.pyを開きます。<br>
+2. RUN Moduleで実行します。適切に起動すれば下図のようなGUIが開きます。<br>
+<img width="250" src="images/スクリーンショット_1.png"><br>
+3. 
